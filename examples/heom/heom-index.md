@@ -22,25 +22,25 @@ This collection of examples from the paper illustrates how to use QuTiP's HEOM t
 
 ## Overview of the notebooks
 
-* [Example 1a: Spin-Bath model (basic)](./heom-1a-spin-bath-model-basic.ipynb)
+* [Example 1a: Spin-Bath model (basic)](heom-1a-spin-bath-model-basic.ipynb)
 
-* [Example 1b: Spin-Bath model (very strong coupling)](./heom-1b-spin-bath-model-very-strong-coupling.ipynb)
+* [Example 1b: Spin-Bath model (very strong coupling)](heom-1b-spin-bath-model-very-strong-coupling.ipynb)
 
-* [Example 1c: Spin-Bath model (underdamped case)](./heom-1c-spin-bath-model-underdamped-sd.ipynb)
+* [Example 1c: Spin-Bath model (underdamped case)](heom-1c-spin-bath-model-underdamped-sd.ipynb)
 
-* [Example 1d: Spin-Bath model, fitting of spectrum and correlation functions](./heom-1d-spin-bath-model-ohmic-fitting.ipynb)
+* [Example 1d: Spin-Bath model, fitting of spectrum and correlation functions](heom-1d-spin-bath-model-ohmic-fitting.ipynb)
 
-* [Example 1e: Spin-Bath model (pure dephasing)](./heom-1e-spin-bath-model-pure-dephasing.ipynb)
+* [Example 1e: Spin-Bath model (pure dephasing)](heom-1e-spin-bath-model-pure-dephasing.ipynb)
 
-* [Example 2: Dynamics in Fenna-Mathews-Olsen complex (FMO)](./heom-2-fmo-example.ipynb)
+* [Example 2: Dynamics in Fenna-Mathews-Olsen complex (FMO)](heom-2-fmo-example.ipynb)
 
-* [Example 3: Quantum Heat Transport](./heom-3-quantum-heat-transport.ipynb)
+* [Example 3: Quantum Heat Transport](heom-3-quantum-heat-transport.ipynb)
 
-* [Example 4: Dynamical decoupling of a non-Markovian environment](./heom-4-dynamical-decoupling.ipynb)
+* [Example 4: Dynamical decoupling of a non-Markovian environment](heom-4-dynamical-decoupling.ipynb)
 
-* [Example 5a: Fermionic single impurity model](./heom-5a-fermions-single-impurity-model.ipynb)
+* [Example 5a: Fermionic single impurity model](heom-5a-fermions-single-impurity-model.ipynb)
 
-* [Example 5b: Discrete boson coupled to an impurity + fermionic leads](./heom-5b-fermions-discrete-boson-model.ipynb)
+* [Example 5b: Discrete boson coupled to an impurity + fermionic leads](heom-5b-fermions-discrete-boson-model.ipynb)
 
 ```{code-cell} ipython3
 
